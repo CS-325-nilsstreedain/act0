@@ -24,4 +24,4 @@ Names of your group member (also select names when submitting)
 ## Code: (10 pts) Submit C++ code in Gradescope.
 You may submit multiple times.  Select all group member each time you submit and include the names of the group member in your comments.
 
-Template Code  
+[Template Code](act0Template.cpp)
